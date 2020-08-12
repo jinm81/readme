@@ -1,11 +1,13 @@
-# hello
+# readme
+jinm81
+jin1281
 
-
-undefined
+first readme
+none
 
 ## Installation
 
-undefined
+npm test
 
 ```bash
 undefined
@@ -14,7 +16,7 @@ undefined
 ## Usage
 
 ```bash
-undefined
+form a repo
 ```
 
 ## Contributing
@@ -23,4 +25,4 @@ undefined
 Please make sure to update tests as appropriate.
 
 ## License
-<img src = "https://img.shields.io/static/v1?label=license&message=undefined&color=blue">
+<img src = "https://img.shields.io/static/v1?label=license&message=none&color=blue">

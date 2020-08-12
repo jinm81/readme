@@ -16,7 +16,6 @@ const questions = [
         message: 'What is the title of this project?',
         default: 'test',
     }, {
-
         name: 'description',
         message: 'What is the description',
         default: 'test',
@@ -29,7 +28,7 @@ const questions = [
         message: 'what command should be run to install dependencies',
         default: 'test',
     }, {
-        name : 'install',
+        name : 'instructions',
         message: 'what command should be run test',
         default: 'test',
     },  {
@@ -37,7 +36,7 @@ const questions = [
         message: 'what does the user need to know about using the repo?',
         default: 'test'
     }, {
-        name: 'usage',
+        name: 'contributors',
         message: 'what does the user need to know about contributing to the repo?',
         default: 'test',
     },

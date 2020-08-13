@@ -11,17 +11,17 @@ testt
 ```
 
 ```
-test
+npm
 ```
 
 ## Usage
 
 ```
-test
+being in a npm 
 ```
 
 ## Contributing
-test
+form a group
 ## Github
 jinm81
 ## Email

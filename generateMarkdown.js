@@ -32,7 +32,8 @@ ${data.email}
 Please make sure to update tests as appropriate.
 
 ## License
-${data.license}
+
+
 <img src = "https://img.shields.io/static/v1?label=license&message=${data.license}&color=blue">
 `
 ;

@@ -1,34 +1,35 @@
-# Demo project
+# testtt
 
 ## Description
-Homework demo
+testttt
 
 ## Table of contents
 
 ## Installation
 ```
-npm i
+testt
 ```
 
 ```
-npm
+test
 ```
 
 ## Usage
 
 ```
-being in a npm 
+test
 ```
 
 ## Contributing
-form a group
+test
 ## Github
 jinm81
 ## Email
-jin1281@gmail.com
+test test
 
 Please make sure to update tests as appropriate.
 
 ## License
-none
-<img src = "https://img.shields.io/static/v1?label=license&message=none&color=blue">
+
+
+<img src = "https://img.shields.io/static/v1?label=license&message=test&color=blue">
